@@ -1,0 +1,6 @@
+PROGRAM STATS
+VAR
+    SUM, Sim : INTEGER
+BEGIN
+    SUM := 0
+END.

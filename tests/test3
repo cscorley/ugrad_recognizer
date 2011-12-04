@@ -1,0 +1,8 @@
+PROGRAM EXAMPLEROOSKI
+	(* This is a SPS comment.
+	They also can span multiple lines. *)
+VAR
+    X (* And they can be embedded. *) : INTEGER
+BEGIN
+    X := -0  (* I wonder what negative zero does :) *)
+END. (* Sentences... err programs end in periods. *)

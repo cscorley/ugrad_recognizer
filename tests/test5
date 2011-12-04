@@ -1,0 +1,11 @@
+PROGRAM STATS
+VAR
+    SUM, Sim, A, B, C, D, E : INTEGER;
+	F , G ,H , I , J ,K , L ,M , N,O,P,Q,R,S,T,U,V,w,x,Z : INTEGER;
+	MAX, SYN : integer
+BEGIN
+    SUM := 0;
+    WRITE(SUM);
+    READ(SUM);
+    READ(FAILURE)
+END.
